@@ -1,0 +1,50 @@
+body {
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: transparent;
+    max-width: 80%;
+    margin: auto;
+    border: none;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: saddlebrown;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+p {
+    color: white;
+}
+#increment-btn {
+    color: darkred;
+}
+
+#save-btn {
+    color: green;
+}
+
